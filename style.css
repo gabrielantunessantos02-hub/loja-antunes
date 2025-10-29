@@ -17,12 +17,12 @@
 nav{
     display: flex; /* Permite organizar os elementos HTML*/
     justify-content: space-between;
-    background-color:#FFE600;
+    background-color:#000000;
     padding: 10px 20px;
 }
 .logo{
     font-size: 1.8rem;
-    color: #0046BE;
+    color: #7100ce;
     font-weight: bold;
     
 }
