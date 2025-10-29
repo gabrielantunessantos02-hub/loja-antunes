@@ -17,7 +17,7 @@
 nav{
     display: flex; /* Permite organizar os elementos HTML*/
     justify-content: space-between;
-    background-color:#000000;
+    background-color:#7100ce;
     padding: 10px 20px;
 }
 .logo{
