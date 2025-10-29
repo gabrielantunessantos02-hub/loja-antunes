@@ -11,13 +11,13 @@
     justify-content: center ;
     flex-direction: row;
     list-style: none;   /* remove os dots */
-    color:black;
+    color:#7100ce;
     .background-color: blue;
 }
 nav{
     display: flex; /* Permite organizar os elementos HTML*/
     justify-content: space-between;
-    background-color:#7100ce;
+    background-color:#000000;
     padding: 10px 20px;
 }
 .logo{
